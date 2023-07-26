@@ -1,6 +1,6 @@
 # viewed-list
 Данная программа представляет собой электронный список просмотренного или прочитанного.
-[/images/picture.jpg](https://github.com/Yulya-S/viewed-list/blob/main/screenshots/screenshots_1.jpg)
+![/images/picture.jpg](https://github.com/Yulya-S/viewed-list/blob/main/screenshots/screenshots_1.jpg)
 
 
 ### В программе реализованны следующие функции:

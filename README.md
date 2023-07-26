@@ -1,11 +1,5 @@
 # viewed-list
 Данная программа представляет собой электронный список просмотренного или прочитанного.
-![screenshot 1](https://github.com/Yulya-S/viewed-list/blob/main/screenshots/screenshot_1.jpg)
-![screenshot 2](https://github.com/Yulya-S/viewed-list/blob/main/screenshots/screenshot_2.jpg)
-![screenshot 3](https://github.com/Yulya-S/viewed-list/blob/main/screenshots/screenshot_3.jpg)
-![screenshot 4](https://github.com/Yulya-S/viewed-list/blob/main/screenshots/screenshot_4.jpg)
-![screenshot 5](https://github.com/Yulya-S/viewed-list/blob/main/screenshots/screenshot_5.jpg)
-
 ### В программе реализованны следующие функции:
 1. возможность регистрации нескольких пользователей, защищенных паролем.
 2. настройки для каждого пользователя:
@@ -34,4 +28,9 @@
 - sqlite3
 - base64
 - os
-
+### Скриншоты:
+![screenshot 1](https://github.com/Yulya-S/viewed-list/blob/main/screenshots/screenshot_1.jpg)
+![screenshot 2](https://github.com/Yulya-S/viewed-list/blob/main/screenshots/screenshot_2.jpg)
+![screenshot 3](https://github.com/Yulya-S/viewed-list/blob/main/screenshots/screenshot_3.jpg)
+![screenshot 4](https://github.com/Yulya-S/viewed-list/blob/main/screenshots/screenshot_4.jpg)
+![screenshot 5](https://github.com/Yulya-S/viewed-list/blob/main/screenshots/screenshot_5.jpg)

@@ -1,6 +1,7 @@
 # viewed-list
 Данная программа представляет собой электронный список просмотренного или прочитанного.
-![](https://github.com/Yulya-S/viewed-list/edit/main/screenshots/screenshots_1.jpg)
+![screenshots_1](https://github.com/Yulya-S/viewed-list/assets/113251965/ffc98029-978f-4f1a-8b98-8a9b97dd0d65)
+
 
 ### В программе реализованны следующие функции:
 1. возможность регистрации нескольких пользователей, защищенных паролем.

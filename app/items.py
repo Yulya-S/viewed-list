@@ -648,6 +648,7 @@ class Titles_select_box(Select_box):
         self.result_boxes = []
         for i in results[1]:
             self.result_boxes.append(Result_names_request(i))
+        self.step = 0
 
     def draw(self, mouse_pos, color_schem):
         self.create_box(mouse_pos, color_schem)
@@ -715,6 +716,7 @@ class Section_select_box(Select_box):
         self.result_boxes = []
         for i in results:
             self.result_boxes.append(Query_result_by_section(i))
+        self.step = 0
 
     def draw(self, mouse_pos, color_schem):
         self.create_box(mouse_pos, color_schem)
